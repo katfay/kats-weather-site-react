@@ -2,6 +2,12 @@
   color: pink;
 }
 
+.App .main-container {
+  background-color: pink;
+  min-height: 20rem;
+  min-width: 20rem;
+}
+
 /*
  .App {
   text-align: center;
