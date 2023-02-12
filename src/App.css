@@ -1,9 +1,5 @@
-.App h1 {
-  color: pink;
-}
-
-.App .main-container {
-  background-color: pink;
+.App {
+  background-color: purple;
   min-height: 20rem;
   min-width: 20rem;
 }
