@@ -1,5 +1,4 @@
 import "./App.css";
-import "./logo.svg";
 
 export default App;
 
