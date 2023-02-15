@@ -10,15 +10,16 @@ import "./Attribution.css";
 export default function App() {
   return (
     <div className="App">
-      Test
-      <WeatherPic />
-      <InfoPanel />
-      <Attribution />
+      <div className="main-container">Test</div>
     </div>
   );
 }
 
 /*
+
+      <WeatherPic />
+      <InfoPanel />
+      <Attribution />
 
 import "./App.css";
 
