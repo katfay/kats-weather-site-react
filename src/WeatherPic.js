@@ -1,5 +1,5 @@
 import "./WeatherPic.css";
 
 export default function WeatherPic() {
-  return <div className="WeatherPic">Hello</div>;
+  return <div className="WeatherPic">WeatherPic div</div>;
 }
