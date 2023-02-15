@@ -1,15 +1,18 @@
 import SearchPanel from "./SearchPanel.js";
+import ResultsPanel from "./ResultsPanel.js";
 // import Attribution from "./Attribution.js";
 
 import "./App.css";
 import "./SearchPanel.css";
+import "./ResultsPanel.css";
 // import "./Attribution.css";
 
 export default function App() {
   return (
     <div className="App">
-      <div className="search-panel-container">
+      <div>
         <SearchPanel />
+        <ResultsPanel />
       </div>
     </div>
   );

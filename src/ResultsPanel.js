@@ -1,7 +1,12 @@
-import "./InfoPanel.css";
+import "./ResultsPanel.css";
 
-export default function InfoPanel() {
-  return <div className="InfoPanel">InfoPanel div</div>;
+export default function ResultsPanel() {
+  return (
+    <div className="ResultsPanel">
+      ResultsPanel div
+      <div>Example</div>
+    </div>
+  );
 }
 
 /*
