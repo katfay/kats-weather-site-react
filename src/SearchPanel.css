@@ -1,14 +1,13 @@
-.WeatherPic .test-border {
+.SearchPanel .test-border {
   border: solid 1px lightskyblue;
 }
 
-.WeatherPic {
+.SearchPanel {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
   border: solid 1px red;
-  background-image: url("https://bit.ly/3xf4RD9");
-  background-size: cover;
+
   color: white;
 }

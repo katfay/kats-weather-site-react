@@ -1,15 +1,15 @@
-import WeatherPic from "./WeatherPic.js";
-import Attribution from "./Attribution.js";
+import SearchPanel from "./SearchPanel.js";
+// import Attribution from "./Attribution.js";
 
 import "./App.css";
-import "./WeatherPic.css";
-import "./Attribution.css";
+import "./SearchPanel.css";
+// import "./Attribution.css";
 
 export default function App() {
   return (
     <div className="App">
-      <div className="main-container">
-        <WeatherPic />
+      <div className="search-panel-container">
+        <SearchPanel />
       </div>
     </div>
   );

@@ -1,7 +1,7 @@
 import "./InfoPanel.css";
 
 export default function InfoPanel() {
-  return <div className="InfoPanel test-border">InfoPanel div</div>;
+  return <div className="InfoPanel">InfoPanel div</div>;
 }
 
 /*
