@@ -1,3 +1,7 @@
+.WeatherPic .test-border {
+  border: solid 1px lightskyblue;
+}
+
 .WeatherPic {
   display: flex;
   width: 50%;
