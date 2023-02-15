@@ -6,4 +6,8 @@
   display: flex;
   width: 50%;
   border: solid 1px red;
+  background-image: url(https://bit.ly/3xf4RD9);
+  background-size: cover;
+  height: auto;
+  max-width: 100%;
 }
