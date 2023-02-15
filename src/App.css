@@ -10,8 +10,8 @@
 .App .main-container {
   display: flex;
   background-color: #fff;
-  min-height: 80%;
-  min-width: 80%;
+  min-height: 70%;
+  min-width: 70%;
 }
 
 /*

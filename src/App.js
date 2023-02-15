@@ -1,10 +1,8 @@
 import WeatherPic from "./WeatherPic.js";
-import InfoPanel from "./InfoPanel.js";
 import Attribution from "./Attribution.js";
 
 import "./App.css";
 import "./WeatherPic.css";
-import "./InfoPanel.css";
 import "./Attribution.css";
 
 export default function App() {
@@ -12,7 +10,6 @@ export default function App() {
     <div className="App">
       <div className="main-container">
         <WeatherPic />
-        <InfoPanel />
       </div>
     </div>
   );
