@@ -1,0 +1,5 @@
+.WeatherPic {
+  display: flex;
+  width: 50%;
+  border: solid 1px red;
+}

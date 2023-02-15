@@ -10,7 +10,10 @@ import "./Attribution.css";
 export default function App() {
   return (
     <div className="App">
-      <div className="main-container">Test</div>
+      <div className="main-container">
+        <WeatherPic />
+        <InfoPanel />
+      </div>
     </div>
   );
 }

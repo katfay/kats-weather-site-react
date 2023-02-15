@@ -1,0 +1,8 @@
+.test-border {
+  border: solid 1px red;
+}
+
+.InfoPanel {
+  display: flex;
+  width: 50%;
+}

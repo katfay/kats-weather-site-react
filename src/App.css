@@ -1,5 +1,5 @@
 .App {
-  background-color: purple;
+  background-color: lightgray;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,9 +8,10 @@
 }
 
 .App .main-container {
+  display: flex;
   background-color: #fff;
-  min-height: 50%;
-  min-width: 50%;
+  min-height: 80%;
+  min-width: 80%;
 }
 
 /*

@@ -1,3 +1,9 @@
+import "./InfoPanel.css";
+
+export default function InfoPanel() {
+  return <div className="InfoPanel test-border">InfoPanel div</div>;
+}
+
 /*
 import React from "react";
 
