@@ -1,11 +1,11 @@
-.SearchPanel .test-border {
+/*.SearchPanel .test-border {
   border: solid 1px lightskyblue;
-}
+} */
 
 .SearchPanel {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  flex-flow: column wrap;
+  justify-content: space-evenly;
   align-items: center;
   min-width: 70vw;
   min-height: 20vh;
