@@ -1,7 +1,9 @@
 .App {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
+  align-content: space-evenly;
+  /* align-items: center; */
   background-image: url("./images/pink-clouds.jpeg");
   background-size: cover;
   height: 100vh;

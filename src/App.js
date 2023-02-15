@@ -12,6 +12,8 @@ export default function App() {
     <div className="App">
       <div>
         <SearchPanel />
+      </div>
+      <div>
         <ResultsPanel />
       </div>
     </div>
