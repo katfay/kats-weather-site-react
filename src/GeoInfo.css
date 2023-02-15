@@ -1,0 +1,15 @@
+.GeoInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*
+.GeoInfo div {
+  border: solid 1px blue;
+}
+
+.GeoInfo span {
+  border: solid 1px red;
+}
+*/
